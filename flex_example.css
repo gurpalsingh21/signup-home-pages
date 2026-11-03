@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    background-color: #F1F5F9;
+    font-size: 11rem;
+    /* flex-direction: column; */
+}
+.container div {
+    margin : 1rem;
+    padding : 2rem;
+}
+/* div {
+    margin : 1rem;
+    padding : 2rem;
+} */
+/* .item1 {
+    margin : 1rem;
+    padding : 2rem;
+
+} */
